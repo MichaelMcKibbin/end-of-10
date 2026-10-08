@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Copyright (C) 2026 Michael McKibbin
+
 """Minimal interactive (read-only) interface."""
 from .devices import discover_disks
 from .erasure import simulate

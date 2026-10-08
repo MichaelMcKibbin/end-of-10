@@ -42,4 +42,12 @@ PYTHONPATH=src python3 -m unittest discover -s tests -v
 
 ## Licensing
 
-TBD
+**Copyright © 2026 Michael McKibbin**
+
+End of 10 is free and open-source software licensed under the GNU General Public License, version 3 or later (GPL-3.0-or-later).
+
+You are free to use, modify, and redistribute this software under the terms of the GNU GPL.
+
+This software is provided WITHOUT ANY WARRANTY, including the implied warranties of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+See the [LICENSE](LICENSE) file for the full licence terms.

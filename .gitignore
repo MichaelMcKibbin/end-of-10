@@ -1,0 +1,45 @@
+
+# PyCharm / IntelliJ IDEA
+.idea/
+*.iml
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python testing and coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+
+# Python build artifacts
+build/
+dist/
+*.egg-info/
+
+# Local environment configuration
+.env
+.env.*
+!.env.example
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files and logs
+*.log
+*.tmp
+*.bak
+
+# Local erasure reports
+reports/
+wipe-logs/
